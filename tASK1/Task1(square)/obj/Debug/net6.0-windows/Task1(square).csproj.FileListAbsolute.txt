@@ -1,0 +1,17 @@
+C:\Users\НР\source\repos\Task1(square)\Task1(square)\bin\Debug\net6.0-windows\Task1(square).exe
+C:\Users\НР\source\repos\Task1(square)\Task1(square)\bin\Debug\net6.0-windows\Task1(square).deps.json
+C:\Users\НР\source\repos\Task1(square)\Task1(square)\bin\Debug\net6.0-windows\Task1(square).runtimeconfig.json
+C:\Users\НР\source\repos\Task1(square)\Task1(square)\bin\Debug\net6.0-windows\Task1(square).dll
+C:\Users\НР\source\repos\Task1(square)\Task1(square)\bin\Debug\net6.0-windows\Task1(square).pdb
+C:\Users\НР\source\repos\Task1(square)\Task1(square)\obj\Debug\net6.0-windows\Task1(square).csproj.AssemblyReference.cache
+C:\Users\НР\source\repos\Task1(square)\Task1(square)\obj\Debug\net6.0-windows\Task1_square_.Form1.resources
+C:\Users\НР\source\repos\Task1(square)\Task1(square)\obj\Debug\net6.0-windows\Task1(square).csproj.GenerateResource.cache
+C:\Users\НР\source\repos\Task1(square)\Task1(square)\obj\Debug\net6.0-windows\Task1(square).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НР\source\repos\Task1(square)\Task1(square)\obj\Debug\net6.0-windows\Task1(square).AssemblyInfoInputs.cache
+C:\Users\НР\source\repos\Task1(square)\Task1(square)\obj\Debug\net6.0-windows\Task1(square).AssemblyInfo.cs
+C:\Users\НР\source\repos\Task1(square)\Task1(square)\obj\Debug\net6.0-windows\Task1(square).csproj.CoreCompileInputs.cache
+C:\Users\НР\source\repos\Task1(square)\Task1(square)\obj\Debug\net6.0-windows\Task1(square).dll
+C:\Users\НР\source\repos\Task1(square)\Task1(square)\obj\Debug\net6.0-windows\refint\Task1(square).dll
+C:\Users\НР\source\repos\Task1(square)\Task1(square)\obj\Debug\net6.0-windows\Task1(square).pdb
+C:\Users\НР\source\repos\Task1(square)\Task1(square)\obj\Debug\net6.0-windows\Task1(square).genruntimeconfig.cache
+C:\Users\НР\source\repos\Task1(square)\Task1(square)\obj\Debug\net6.0-windows\ref\Task1(square).dll
